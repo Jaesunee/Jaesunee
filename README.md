@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hey, I'm Jason!
+
+- 🔭 Always looking to build out and realize innovative ideas
+- 🌱 Currently studying software engineering at CMU
+- 📫 How to reach me: jasonchu@andrew.cmu.edu or [connect on Linkedin](https://www.linkedin.com/in/usjchung/)
 
 <!--
 **Jaesunee/Jaesunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
