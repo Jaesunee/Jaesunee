@@ -2,7 +2,7 @@
 
 - :hammer: Always looking to build out and realize innovative ideas
 - :computer: Currently studying software engineering at CMU
-- 🎓 CSBS from CU Boulder
+- 🎓 CU Boulder Computer Science grad
 - 📫 How to reach me:
   - Email: jasonchu@andrew.cmu.edu
   - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usjchung/)
