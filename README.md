@@ -1,4 +1,4 @@
-### Hello! I'm Jason, a coder, gamer, and Go-Gitter.
+### Hello! I'm Jason, a coder and go-Gitter.
 
 - :hammer: Always looking to build out and realize innovative ideas
 - :computer: Pursuing a Master's in Software Engineering @ Carnegie Mellon
