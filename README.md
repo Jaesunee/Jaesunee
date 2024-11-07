@@ -2,7 +2,9 @@
 
 - 🔭 Always looking to build out and realize innovative ideas
 - 🌱 Currently studying software engineering at CMU
-- 📫 How to reach me: jasonchu@andrew.cmu.edu or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usjchung/)
+- 📫 How to reach me:
+  - Email: jasonchu@andrew.cmu.edu
+  - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usjchung/)
 
 <!--
 **Jaesunee/Jaesunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
