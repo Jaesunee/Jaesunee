@@ -1,8 +1,8 @@
 ### Hello! I'm Jason, a coder, gamer, and Go-Gitter.
 
 - :hammer: Always looking to build out and realize innovative ideas
-- :computer: Currently studying software engineering at CMU
-- 🎓 CU Boulder Computer Science grad
+- :computer: Pursuing a Master's in Software Engineering @ Carnegie Mellon
+- 🎓 Computer Science undergrad @ CU Boulder
 - 📫 How to reach me:
   - Email: jasonchu@andrew.cmu.edu
   - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usjchung/)
