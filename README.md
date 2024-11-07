@@ -1,7 +1,7 @@
 ### Hey, I'm Jason!
 
 - :hammer: Always looking to build out and realize innovative ideas
-- 📖 Currently studying software engineering at CMU
+- :computer: Currently studying software engineering at CMU
 - 🎓 CSBS from CU Boulder
 - 📫 How to reach me:
   - Email: jasonchu@andrew.cmu.edu
