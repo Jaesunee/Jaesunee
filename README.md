@@ -6,7 +6,12 @@
 - 📫 How to reach me:
   - Email: jasonchu@andrew.cmu.edu
   - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usjchung/)
-- :earth_americas: Check out my [![Github Page](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://jaesunee.github.io/#about)
+- <span style="display: inline-flex; align-items: center;">
+  🌎 Check out my 
+  <a href="https://jaesunee.github.io/#about">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Page">
+  </a>
+</span>
 
 <!--
 **Jaesunee/Jaesunee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
