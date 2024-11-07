@@ -1,4 +1,4 @@
-### Hey, I'm Jason!
+### Hello! I'm Jason, a coder, gamer, and Go-Gitter.
 
 - :hammer: Always looking to build out and realize innovative ideas
 - :computer: Currently studying software engineering at CMU
