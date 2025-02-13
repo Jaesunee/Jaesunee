@@ -1,8 +1,8 @@
-### Hello! I'm Jason, a developer and go-Gitter.
+### Hi, I'm Jason.
 
-- 🛠️ Always looking to build out and realize innovative ideas
-- 💻 Pursuing a Master's in Software Engineering @ Carnegie Mellon
-- 🎓 Computer Science undergrad @ CU Boulder
+- 🛠️ Excited about learning and building: Systems, SRE, ML/AI, and DevOps.
+- 💻 Pursuing a Master's in Software Engineering (Scalable Systems) @ CMU
+- 🎓 Computer Science B.S. @ CU Boulder
 - 📫 How to reach me:
   - Email: jasonchu@andrew.cmu.edu
   - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usjchung/)
