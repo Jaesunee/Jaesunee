@@ -1,4 +1,4 @@
-### Welcome, I'm Jason .
+### Hi, I'm Jason. Welcome!
 
 - 🛠️ Excited about learning and building: Systems, SRE, ML/AI, and DevOps.
 - 💻 Pursuing a Master's in Software Engineering (Scalable Systems) @ CMU
