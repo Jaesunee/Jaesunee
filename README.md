@@ -1,6 +1,6 @@
 ### Hi, I'm Jason. Welcome!
 
-- 🛠️ I'm excited about learning and building: Systems, SRE, ML/AI, and DevOps.
+- 🛠️ I'm excited about complex systems and applications leveraging AI/ML
 - 💻 Pursuing a Master's in Software Engineering (Scalable Systems) @ CMU
 - 🎓 Computer Science B.S. @ CU Boulder
 - 📫 How to reach me:
