@@ -1,10 +1,10 @@
 ### Hi, I'm Jason. Welcome!
 
-- 🛠️ I'm excited about complex systems and applications leveraging AI/ML
-- 💻 Pursuing a Master's in Software Engineering (Scalable Systems) @ CMU
-- 🎓 Computer Science B.S. @ CU Boulder
+- 🛠️ I'm excited about systems and applications leveraging AI/ML
+- 💻 Software Engineer in healthcare and aerospace industries
+- 🎓 MS in Software Engineering @ CMU, Computer Science B.S. @ CU Boulder
 - 📫 How to reach me:
-  - Email: jasonchu@andrew.cmu.edu
+  - Email: jasonchung3003@gmail.com
   - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usjchung/)
 - ⭐ Check out my website:
   - [![LinkedIn](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://jaesunee.github.io/)
